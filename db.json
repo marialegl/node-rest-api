@@ -1,0 +1,126 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "The Power of Now",
+            "author": "Eckhart Tolle",
+            "publisher": "De bolsillo",
+            "publication_year": 2004,
+            "genre": "Spirituality",
+            "topics": [
+                "Present moment",
+                "Mind",
+                "Spirituality"
+            ],
+            "summary": "A classic that invites you to live fully in the present moment and let go of suffering.",
+            "rating": 4.8,
+            "page_count": 224,
+            "language": "Spanish",
+            "isbn": "9788497592003",
+            "image_url": "https://example.com/imagen_libro.html",
+            "platforms": [
+                "Amazon",
+                "Kindle",
+                "Google Books"
+            ],
+            "amazon_price": 12.99
+        },
+        {
+            "id": 3,
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "publisher": "Anagrama",
+            "publication_year": 2018,
+            "genre": "Fiction",
+            "subgenre": "Autofiction",
+            "topics": [
+                "Mental health",
+                "Dark humor",
+                "Feminism"
+            ],
+            "summary": "A satirical and honest novel about self-care in a fast-paced society.",
+            "rating": 4.2,
+            "page_count": 208,
+            "language": "Spanish",
+            "isbn": "9788433936470",
+            "image_url": "https://example.com/imagen_libro3.html",
+            "platforms": [
+                "Amazon",
+                "Casa del Libro"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "The Monk Who Sold His Ferrari",
+            "author": "Robin Sharma",
+            "publisher": "De bolsillo",
+            "publication_year": 1997,
+            "genre": "Self-help",
+            "topics": [
+                "Success",
+                "Happiness",
+                "Spirituality"
+            ],
+            "summary": "An inspiring fable about a lawyer who leaves it all behind to find true happiness.",
+            "rating": 4.3,
+            "page_count": 192,
+            "language": "Spanish",
+            "isbn": "9788497590306",
+            "image_url": "https://example.com/imagen_libro4.html",
+            "platforms": [
+                "Amazon",
+                "Kindle"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Don't Worry About What Others Think",
+            "author": "Maxime Lagacé",
+            "publisher": "Urano",
+            "publication_year": 2018,
+            "genre": "Psychology",
+            "topics": [
+                "Self-esteem",
+                "Social relationships",
+                "Anxiety"
+            ],
+            "summary": "A practical guide to freeing yourself from the opinions of others and living a more authentic life.",
+            "rating": 4.5,
+            "page_count": 256,
+            "language": "Spanish",
+            "isbn": "9788417133754",
+            "image_url": "https://example.com/imagen_libro5.html",
+            "platforms": [
+                "Amazon",
+                "Fnac"
+            ]
+        },
+        {
+            "id": 6
+        },
+        {
+            "id": 7,
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "publisher": "Avery",
+            "publication_year": 2018,
+            "genre": "Self-help",
+            "topics": [
+                "Habits",
+                "Personal Development",
+                "Productivity"
+            ],
+            "summary": "An easy and proven way to build good habits and break bad ones.",
+            "rating": 4.8,
+            "page_count": 320,
+            "language": "English",
+            "isbn": "9780735211292",
+            "image_url": "https://example.com/atomic_habits_image.html",
+            "platforms": [
+                "Amazon",
+                "Google Books"
+            ],
+            "amazon_price": 20.99
+        }
+    ]
+}
